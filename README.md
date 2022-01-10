@@ -9,6 +9,7 @@ const joel = {
     knowledge: [
         'AWS',
         'CloudFormation',
+        'Terraform',
         'Serverless',
         'Node.js',
         'Vue.js',
