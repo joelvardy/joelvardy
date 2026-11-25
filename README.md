@@ -12,6 +12,9 @@ const joel = {
         'Terraform',
         'Serverless',
         'Node.js',
+        'TypeScript',
+        'DynamoDB',
+        'Next.js',
         'Vue.js',
     ],
 };
